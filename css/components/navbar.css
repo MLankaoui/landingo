@@ -1,0 +1,28 @@
+.header-navbar {
+        background-color: #1d1b1b;
+        color: white;
+        padding: 23px;
+        font-family: "Lato", sans-serif;
+}
+
+.navbar-elements {
+        display: flex;
+        flex-direction: space-around;
+        justify-content: center;
+        cursor: pointer;
+        gap: 20px;
+}
+
+
+.navbar-element:hover {
+        color: #00c5a7;
+        opacity: 50%;
+} 
+
+.navbar-logo {
+        font-weight: 900;
+}
+
+.navbar-element {
+        font-weight: 400;
+}
