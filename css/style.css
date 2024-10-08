@@ -7,3 +7,12 @@
 li {
         list-style: none;
 }
+
+.green {
+        color: #00c5a7;
+}
+
+a {
+        text-decoration: none;
+        color: white;
+}

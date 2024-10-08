@@ -1,5 +1,5 @@
 .header-navbar {
-        background-color: #1d1b1b;
+        background-color: #00c5a7;
         color: white;
         padding: 23px;
         font-family: "Lato", sans-serif;
@@ -15,15 +15,26 @@
 
 
 .navbar-element:hover {
-        color: #00c5a7;
+        color: #1d1b1b;
         opacity: 50%;
 } 
 
 .navbar-logo {
-        color: #00c5a7;
+        color: #1d1b1b;
         font-weight: 900;
 }
 
 .navbar-element {
         font-weight: 400;
+}
+
+.get-start-menu {
+        font-weight: 900;
+        border: none;
+        cursor: pointer;
+        padding: 5px 10px 5px 10px;
+        background-color: #1d1b1b;
+        color: #00c5a7;
+        border-radius: 20px;
+        font-size: 16px;
 }
