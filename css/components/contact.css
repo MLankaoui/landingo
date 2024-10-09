@@ -1,0 +1,54 @@
+.contact-section {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 200px;
+}
+
+.contact-text {
+        width: 50%;
+        margin-top: 30px;
+}
+
+.about-us-title-contact {
+        color: #00c5a7;
+}
+
+.green-line {
+        width: 40px;
+        height: 4px;
+        background-color: #00c5a7;
+}
+
+.contact-form {
+        background-color: #1d1b1b;
+        padding: 100px;
+        color: white;
+}
+
+.input {
+        padding: 10px 100px 10px 100px;
+        border: 1px solid #00c5a7;
+        border-radius: 25px;
+}
+
+.message-input {
+        border: 1px solid #00c5a7;
+}
+
+.contact-title {
+        text-align: center;
+        color: #00c5a7;
+}
+
+.send-message {
+        padding: 10px 40px 10px 40px;
+        border: 1px solid #00c5a7;
+        border-radius: 20px;
+        background-color: #00c5a7;
+        color: white;
+        font-weight: 900;
+        font-size: 20px;
+        cursor: pointer;
+}
